@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">AboutMeApp</string>
+    <string name="name">Vithor</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Hi, my name is vitinho.
+        \n\nI play all kinds of games on pc.
+        \n\nI like to go for a ride in my bicycle with my friends.
+        \n\nI play all kinds of games on pc.
+        \n\nI like to go for a ride in my bicycle with my friends.
+        \n\nI play all kinds of games on pc.
+        \n\nI like to go for a ride in my bicycle with my friends.
+        \n\nI play all kinds of games on pc.
+        \n\nI like to go for a ride in my bicycle with my friends.
+        \n\nI play all kinds of games on pc.
+        \n\nI like to go for a ride in my bicycle with my friends.</string>
+    <string name="my_photo">My photo</string>
+    <string name="bio_scroll">Bio Scroll</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+
 </resources>
